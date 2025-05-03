@@ -10,7 +10,8 @@ const About = () => {
             <div className='flex flex-col md:flex-row items-center md:space-x-12'>
                 <img src={AboutImage} alt="" className='w-72 h-80 rounded object-cover mb-8 md:mb-0' />
                 <div className='flex-1'>
-                    <p className='text-lg mb-8'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum perferendis labore sint laboriosam sequi explicabo, necessitatibus sunt pariatur, excepturi commodi ratione? Facilis aperiam qui tenetur facere cupiditate porro repellendus nostrum.</p>
+                    <p className='text-lg mb-8'> "I am a programmer. I am a fresher frontend and backend developer. Last year, I was learning full-stack development. This is my passion, and I want to build my career in it. It was hard to learn, but I stayed motivated."
+            "I faced many difficulties on this journey. I worked very hard, and now things feel easier."</p>
                     <div className='space-y-4'>
                       <div className='flex items-center'>
                         <label htmlFor="htmlandcss" className='w-2/12'>HTML & CSS</label>
